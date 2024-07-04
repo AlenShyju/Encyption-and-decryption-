@@ -9,7 +9,7 @@ This is a simple web-based encryption/decryption tool that allows you to encrypt
 
 ## Usage
 
-1. Go to (https://github.com/AlenShyju/Encyption-and-decryption-/)
+1. Go to    3kh0.github.io/echocrypt (https://github.com/AlenShyju/Encyption-and-decryption-/)
 2. Enter a key in the "Key" field
 3. Enter a message in the "Message" field
 4. Click the "Encrypt" button to encrypt the message
